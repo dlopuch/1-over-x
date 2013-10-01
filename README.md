@@ -2,11 +2,12 @@
 ========
 
 Visualization exercise: How much is 1 year?
-========
+
+---------
 
 Project structure based on [js-sketchbook-boilerplate](http://github.com/dlopuch/js-sketchbook-boilerplate) project.
 
-========
+---------
 
 Released under the GPL v3 license.
 
